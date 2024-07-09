@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Rahul Kadri
+Rahul Kadri
+Data Analyst
 
 Show Contacts
 
 Email
-richard@example.com
+rahul271995@hotmail.com
 
 Phone
 +1 (213) 352-2795
 
 Birthday
-June 23, 1982
+Sept 27, 1995
 
 Location
-Sacramento, California, USA
+London, United Kingdom
 
 # navbar
 
